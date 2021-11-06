@@ -3,7 +3,7 @@
 ## Membuat Prrogram Untuk Menampilkan n Bilangan Acak yang Lebih Kecil dari 0.5
 ### Flowchart program
 - Berikut flowchart program dari program latihan 1, untuk menampilkan n bilangan acak yang lebih kecil dari 0.5
-![gambar1](ss/ss1.png)
+![gambar1](ssan1/frowcart.png)
 ### Penjelasan alur program 
  > print("Menampilkan n bilangan acak yang lebih kecil dari 0.5") 
 -  itu hanya perintah untuk menamilkan judul saja
@@ -17,8 +17,8 @@
 -  Adalah perintah untuk menampilkan hasil yang telah di input dengan ketentuan random uniform mulai dari nilai 0.1 sampai 0.5
 
 ### Berikut gambaran programnya
-![gambar2](ss/ss2.PNG)
+![gambar2](ssan1/ss1.png)
 
 ### Berikut hasil program yang saya buat
-![gambar3](ss/ss3.PNG)
+![gambar3](ssan1/ss2.PNG)
 ### Latihan 1 selesai
