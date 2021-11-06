@@ -108,6 +108,6 @@ ________________________________________________________________________________
 ### Berikut gambaran programnya
 ![gambar8](ssanprogram1/ss2.png)
 ### dan berikut hasil dari program setelah dijalankan
-![gambar9](ssanprogram1/ss2.png)
+![gambar9](ssanprogram1/ss3.png)
 ## Program 1 selesai
 # Sekian Trimakasih
