@@ -28,7 +28,7 @@ ________________________________________________________________________________
 ## Membuat Program Untuk Menampilkan Bilangan Terbesar dari n Buah Data yang Diinputkan
 ### Flowchart program
 - Berikut flowchart program menampilkan bilangan terbesar dari n buah data yang diinputkan
-![gambar4](ss/ss4.png)
+![gambar4](ssan/ss1.png)
 
 ### Penjelasan alur program
  > print("Menampilkan bilangan terbesar dari n buah data yang diinput") 
@@ -48,7 +48,9 @@ ________________________________________________________________________________
  > print("bilangan Terbesar adalah: ",max)
 - Adalah perintah untuk menampilkan hasil bilangan yang terbesar dari angka-angka yang telah terinput
 ### Berikut gambaran programnya
-![gambar5](ss/ss5.PNG)
+![gambar5](ssan2/ss2.PNG)
 ### dan berikut hasil dari program, saat dijalankan
-![gambar6](ss/ss6.PNG)
+![gambar6](ssan2/ss3.PNG)
 ### Latihan 2 selesai
+_______________________________________________________________________________________________________________________________________
+
