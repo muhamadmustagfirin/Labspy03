@@ -1,5 +1,4 @@
 # Labspy03
-# Labspy03
 # Latihan 1
 ## Membuat Prrogram Untuk Menampilkan n Bilangan Acak yang Lebih Kecil dari 0.5
 ### Flowchart program
