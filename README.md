@@ -23,3 +23,32 @@
 ![gambar3](ssan1/ss2.png)
 ### Latihan 1 selesai
 _______________________________________________________________________________________________________________________________________
+
+# Latihan 2
+## Membuat Program Untuk Menampilkan Bilangan Terbesar dari n Buah Data yang Diinputkan
+### Flowchart program
+- Berikut flowchart program menampilkan bilangan terbesar dari n buah data yang diinputkan
+![gambar4](ss/ss4.png)
+
+### Penjelasan alur program
+ > print("Menampilkan bilangan terbesar dari n buah data yang diinput") 
+- Perintah untuk menampilkan judul program
+ > max = 0 
+- Adalah perintah untuk pengulangan hingga waktu yang ditentukan
+ > a = int(input("Masukan Bilangan: ")) 
+- Adalah perintah untuk menginput nilai integer
+ > if max < a : 
+- Adalah printah untuk tipe data if, atau jika, maksimal lebih kecil dari a atau integer
+ > max = a 
+- Perintah untuk maksimal sama dengan a atau integer
+ > if a==0 :
+- Perintah untuk tipe data  if atau jika a sama dengan 0 maka 
+ > break 
+- Perintah untuk mengakhiri pengulangan, jadi jika menginput nilai 0, maka pengulangan berakhir atau selesai
+ > print("bilangan Terbesar adalah: ",max)
+- Adalah perintah untuk menampilkan hasil bilangan yang terbesar dari angka-angka yang telah terinput
+### Berikut gambaran programnya
+![gambar5](ss/ss5.PNG)
+### dan berikut hasil dari program, saat dijalankan
+![gambar6](ss/ss6.PNG)
+### Latihan 2 selesai
