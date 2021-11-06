@@ -20,5 +20,5 @@
 ![gambar2](ssan1/ss1.png)
 
 ### Berikut hasil program yang saya buat
-![gambar3](ssan1/ss2.PNG)
+![gambar3](ssan1/ss2.png)
 ### Latihan 1 selesai
